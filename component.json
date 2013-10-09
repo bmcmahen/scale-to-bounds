@@ -1,0 +1,14 @@
+{
+  "name": "scale-to-bounds",
+  "repo": "bmcmahen/scale-to-bounds",
+  "description": "given an original width, height, and a max width and height, scale to the maximum size while maintaining original ratio",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
